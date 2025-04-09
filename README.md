@@ -1,7 +1,7 @@
-###  DATE:26.03.2025 
-###  NAME:JAGADEESH J
-###  ROLL NO :212223110015
-###  DEPARTMENT:CSE(IOT)
+###  DATE:9.04.2025 
+###  NAME:Naveen kumar V
+###  ROLL NO :212223230140
+###  DEPARTMENT:AIDS
 
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
