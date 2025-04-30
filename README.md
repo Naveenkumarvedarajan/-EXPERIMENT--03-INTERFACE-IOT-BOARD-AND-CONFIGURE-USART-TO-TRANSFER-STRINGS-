@@ -70,4 +70,4 @@ PUTCHAR_PROTOTYPE
  
  
 ## Result :
-configuring and usart is accomplished and string data is visualized on the serial port utilty
+configuring and usart is accomplished and string data is visualized on the serial port utilty.
